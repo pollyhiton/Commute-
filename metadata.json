@@ -1,0 +1,6 @@
+{
+  "name": "CommuteCast - Personalized News Audio Briefings",
+  "description": "Transform your curated news articles into personalized, studio-grade audio briefings and podcast summaries tailored for your daily commute.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
